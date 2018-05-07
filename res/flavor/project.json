@@ -1,0 +1,23 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "ccbreader", "gui", "audio", "ccui"],
+
+    "plugin" : {
+        "facebook": {
+            "appId" : "474056089638421",
+            "xfbml" : true,
+            "version" : "v2.9"
+        }
+    },
+
+    "jsList" : [
+    ]
+}

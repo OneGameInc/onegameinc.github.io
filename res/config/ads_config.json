@@ -1,0 +1,48 @@
+{
+  "google": {
+    "admobCacheStrategy": 4,
+    "defaultAdmobId": "ca-app-pub-9020176592277390/8793235661",
+    "defaultAdmobConfig": "",
+    "admobConfig": [
+      { "delayToNextCache": 6, "tryCacheTimes": 3 },
+      { "delayToNextCache": 5, "tryCacheTimes": 3 },
+      { "delayToNextCache": 5, "tryCacheTimes": 2 },
+      { "delayToNextCache": 5, "tryCacheTimes": 1 },
+      { "delayToNextCache": 5, "tryCacheTimes": 1 },
+      { "delayToNextCache": 5, "tryCacheTimes": 1 }
+    ],
+    "admobIds": [
+      "ca-app-pub-9020176592277390/8367601269",
+      "ca-app-pub-9020176592277390/8299140898",
+      "ca-app-pub-9020176592277390/5497895348",
+      "ca-app-pub-9020176592277390/4783579475",
+      "ca-app-pub-9020176592277390/5003071325",
+      "ca-app-pub-9020176592277390/5330374383"
+    ]
+  },
+  "ios": {
+    "admobCacheStrategy": 5,
+    "adsConfig": {
+      "AdMob": 20,
+      "Applovin": 20,
+      "ChartBoost": 5,
+      "SuperSonic": 10
+    },
+    "admobConfig": [
+      { "delayToNextCache": 6, "tryCacheTimes": 3 },
+      { "delayToNextCache": 5, "tryCacheTimes": 3 },
+      { "delayToNextCache": 5, "tryCacheTimes": 2 },
+      { "delayToNextCache": 5, "tryCacheTimes": 1 },
+      { "delayToNextCache": 5, "tryCacheTimes": 1 },
+      { "delayToNextCache": 5, "tryCacheTimes": 1 }
+    ],
+    "admobIds": [
+      "ca-app-pub-9020176592277390/3547385392",
+      "ca-app-pub-9020176592277390/1235619654",
+      "ca-app-pub-9020176592277390/9445282167",
+      "ca-app-pub-9020176592277390/9660904587",
+      "ca-app-pub-9020176592277390/8156251227",
+      "ca-app-pub-9020176592277390/8139282812"
+    ]
+  }
+}

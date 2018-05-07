@@ -1,0 +1,58 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "type": 1,
+      "key": "50 coins",
+      "key": "free_coins_title",
+      "pid": "",
+      "price": 0,
+      "count": 25
+    },
+    {
+      "id": 2,
+      "type": 3,
+      "key": "Remove Ads",
+      "pid": "com.douapp.notesquare.removeads",
+      "price": "$0.99",
+      "count": 1,
+      "image": "icon_no_ads.png"
+    },
+    {
+      "id": 3,
+      "type": 2,
+      "key": "coins 1",
+      "pid": "com.douapp.notesquare.coins1",
+      "price": "$0.99",
+      "count": 100,
+      "image": "store_coins_1.png"
+    },
+    {
+      "id": 4,
+      "type": 2,
+      "key": "coins 2",
+      "pid": "com.douapp.notesquare.coins2",
+      "price": "$1.99",
+      "count": 240,
+      "image": "store_coins_2.png"
+    },
+    {
+      "id": 5,
+      "type": 2,
+      "key": "coins 3",
+      "pid": "com.douapp.notesquare.coins3",
+      "price": "$3.99",
+      "count": 600,
+      "image": "store_coins_3.png"
+    },
+    {
+      "id": 6,
+      "type": 4,
+      "key": "restore",
+      "pid": "",
+      "price": "0",
+      "count": 0,
+      "image": ""
+    }
+  ]
+}

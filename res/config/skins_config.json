@@ -1,0 +1,60 @@
+{
+  "skins": [
+    {
+      "id": 0,
+      "type": 1,
+      "count": 0,
+      "image": "skin0",
+      "offsetX": 12
+    },
+    {
+      "id": 1,
+      "type": 1,
+      "count": 50,
+      "image": "skin1",
+      "offsetX": 34
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "count": 80,
+      "image": "skin2",
+      "offsetX": 10
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "count": 100,
+      "image": "skin3",
+      "offsetX": 19
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "count": 120,
+      "image": "skin4",
+      "offsetX": 14
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "count": 150,
+      "image": "skin5",
+      "offsetX": 16
+    },
+    {
+      "id": 6,
+      "type": 1,
+      "count": 200,
+      "image": "skin6",
+      "offsetX": 0
+    },
+    {
+      "id": 7,
+      "type": 1,
+      "count": 240,
+      "image": "skin7",
+      "offsetX": 0
+    }
+  ]
+}
