@@ -1,0 +1,13 @@
+{
+  "stores": [
+    {
+      "id": 4,
+      "type": 4,
+      "key": "Remove Ads",
+      "pid": "com.douapp.bubbleup.ads",
+      "price": "$0.99",
+      "count": 1,
+      "image": "icon_no_ads.png"
+    }
+  ]
+}
