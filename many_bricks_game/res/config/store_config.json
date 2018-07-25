@@ -1,0 +1,49 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "type": 1,
+      "key": "2 boost",
+      "key": "free_coins_title",
+      "pid": "",
+      "price": 0,
+      "count": 2
+    },
+    {
+      "id": 2,
+      "type": 2,
+      "key": "3 new",
+      "pid": "com.douapp.manybricks.newbricks",
+      "price": "$0.99",
+      "count": 20,
+      "image": "store_3_new.png"
+    },
+    {
+      "id": 3,
+      "type": 3,
+      "key": "split ball",
+      "pid": "com.douapp.manybricks.splitball",
+      "price": "$0.99",
+      "count": 15,
+      "image": "store_3_multiple.png"
+    },
+    {
+      "id": 4,
+      "type": 4,
+      "key": "Remove Ads",
+      "pid": "com.douapp.manybricks.ads",
+      "price": "$0.99",
+      "count": 1,
+      "image": "icon_no_ads.png"
+    },
+    {
+      "id": 5,
+      "type": 5,
+      "key": "Restore",
+      "pid": "",
+      "price": "0",
+      "count": 1,
+      "image": ""
+    }
+  ]
+}
