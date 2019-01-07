@@ -1,0 +1,104 @@
+{
+  "google": {
+    "admobCacheStrategy": 5,
+    "adsConfig": {
+      "AdMob": 0,
+      "Applovin": 0,
+      "ChartBoost": 0,
+      "SuperSonic": 0,
+      "Youmi": 0,
+      "Vungle": 0,
+      "Facebook": 100
+    },
+    "rewardAdsConfig": {
+      "SuperSonic": 0,
+      "Applovin": 0,
+      "ChartBoost": 0,
+      "AdMob": 0,
+      "Youmi": 0,
+      "Vungle": 0,
+      "Facebook": 100
+    },
+    "bannerAdsConfig": {
+      "SuperSonic": 0,
+      "Applovin": 0,
+      "ChartBoost": 0,
+      "AdMob": 0,
+      "Youmi": 0,
+      "Facebook": 100
+    },
+    "rewardAdmobId": "",
+    "admobNativeAds": {
+      "config": [
+        { "delayToNextCache": 6, "tryCacheTimes": 3 },
+        { "delayToNextCache": 5, "tryCacheTimes": 3 },
+        { "delayToNextCache": 5, "tryCacheTimes": 2 },
+        { "delayToNextCache": 5, "tryCacheTimes": 1 },
+        { "delayToNextCache": 5, "tryCacheTimes": 1 }
+      ],
+      "ids": [
+        "ca-app-pub-1865559073577505/2521233705",
+        "ca-app-pub-1865559073577505/7198845314",
+        "ca-app-pub-1865559073577505/5302653172",
+        "ca-app-pub-1865559073577505/7745640224",
+        "ca-app-pub-1865559073577505/8484006821"
+      ]
+    },
+    "facebookNativeAds": {
+      "config": [
+        { "delayToNextCache": 6, "tryCacheTimes": 3 },
+        { "delayToNextCache": 5, "tryCacheTimes": 3 },
+        { "delayToNextCache": 5, "tryCacheTimes": 2 },
+        { "delayToNextCache": 5, "tryCacheTimes": 1 },
+        { "delayToNextCache": 5, "tryCacheTimes": 1 }
+      ],
+      "ids": [
+        "573607959775925_595889694214418",
+        "573607959775925_595889774214410",
+        "573607959775925_595889824214405",
+        "573607959775925_595889907547730",
+        "573607959775925_595889967547724"
+      ]
+    }
+  },
+  "ios": {
+    "admobCacheStrategy": 5,
+    "adsConfig": {
+      "AdMob": 20,
+      "Applovin": 20,
+      "ChartBoost": 5,
+      "SuperSonic": 10,
+      "Vungle": 0
+    },
+    "rewardAdsConfig": {
+      "SuperSonic": 20,
+      "Applovin": 0,
+      "ChartBoost": 0,
+      "AdMob": 20,
+      "Vungle": 10
+    },
+    "bannerAdsConfig": {
+      "SuperSonic": 0,
+      "Applovin": 20,
+      "ChartBoost": 0,
+      "AdMob": 20
+    },
+    "rewardAdmobId": "ca-app-pub-9020176592277390/7556782083",
+    "admobConfig": [
+      { "delayToNextCache": 6, "tryCacheTimes": 3 },
+      { "delayToNextCache": 5, "tryCacheTimes": 3 },
+      { "delayToNextCache": 5, "tryCacheTimes": 2 },
+      { "delayToNextCache": 5, "tryCacheTimes": 1 },
+      { "delayToNextCache": 5, "tryCacheTimes": 1 },
+      { "delayToNextCache": 5, "tryCacheTimes": 1 }
+    ],
+    "admobIds": [
+      "ca-app-pub-9020176592277390/9419731936",
+      "ca-app-pub-9020176592277390/3784261877",
+      "ca-app-pub-9020176592277390/3234006650",
+      "ca-app-pub-9020176592277390/8163077316",
+      "ca-app-pub-9020176592277390/6989596447",
+      "ca-app-pub-9020176592277390/6762188125"
+    ]
+  }
+}
