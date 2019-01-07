@@ -13,7 +13,8 @@
         "gui",
         "ccbreader",
         "audio",
-        "chipmunk"
+        "chipmunk",
+        "editbox"
     ],
 
     "jsList" : [
