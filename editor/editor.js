@@ -8975,7 +8975,9 @@ var EditorScene = cc.Scene.extend({
     },
 
     onDelete: function () {
-        this.deleteLatestRect();
+        if (this._status !== "delete") {
+            this.deleteLatestRect();
+        }
     },
 
     onRefresh: function () {
