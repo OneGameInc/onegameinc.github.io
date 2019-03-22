@@ -4,29 +4,93 @@
       "id": 1,
       "type": 2,
       "count": 2,
-      "probability": 40,
+      "probability": 30,
       "image": "store_3_new.png"
     },
     {
       "id": 2,
-      "type": 2,
-      "count": 3,
-      "probability": 15,
-      "image": "store_3_new.png"
-    },
-    {
-      "id": 3,
       "type": 3,
       "count": 2,
       "probability": 30,
       "image": "store_3_multiple.png"
     },
     {
+      "id": 3,
+      "type": 6,
+      "count": 15,
+      "probability": 30,
+      "image": "icon_diamond_1.png",
+      "scale": 1.2
+    },
+    {
       "id": 4,
+      "type": 2,
+      "count": 3,
+      "probability": 15,
+      "image": "store_3_new.png"
+    },
+    {
+      "id": 5,
       "type": 3,
       "count": 3,
       "probability": 15,
       "image": "store_3_multiple.png"
+    },
+    {
+      "id": 6,
+      "type": 6,
+      "count": 60,
+      "probability": 5,
+      "image": "icon_diamond_1.png",
+      "scale": 1.2
+    }
+  ],
+  "box": [
+    {
+      "id": 1,
+      "type": 6,
+      "count": 10,
+      "probability": 30,
+      "image": "icon_diamond_1.png",
+      "scale": 1.2
+    },
+    {
+      "id": 2,
+      "type": 3,
+      "count": 2,
+      "probability": 15,
+      "image": "store_3_multiple.png"
+    },
+    {
+      "id": 3,
+      "type": 6,
+      "count": 20,
+      "probability": 20,
+      "image": "icon_diamond_1.png",
+      "scale": 1.2
+    },
+    {
+      "id": 4,
+      "type": 6,
+      "count": 35,
+      "probability": 10,
+      "image": "icon_diamond_1.png",
+      "scale": 1.2
+    },
+    {
+      "id": 5,
+      "type": 2,
+      "count": 3,
+      "probability": 30,
+      "image": "store_3_new.png"
+    },
+    {
+      "id": 6,
+      "type": 6,
+      "count": 60,
+      "probability": 5,
+      "image": "icon_diamond_1.png",
+      "scale": 1.2
     }
   ],
   "daily_bonus": [
@@ -50,7 +114,7 @@
       "image": "skin_store.png",
       "extra": {
         "type": 6,
-        "count": 20,
+        "count": 30,
         "image": "icon_diamond.png"
       }
     },
@@ -69,13 +133,13 @@
     {
       "id": 6,
       "type": 6,
-      "count": 100,
+      "count": 80,
       "image": "icon_diamond.png"
     },
     {
       "id": 7,
       "type": 6,
-      "count": 150,
+      "count": 120,
       "image": "icon_diamond.png"
     }
   ],

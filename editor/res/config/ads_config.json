@@ -27,36 +27,26 @@
       "Youmi": 0,
       "Facebook": 100
     },
+    "nativeAdsConfig": {
+      "Facebook": 70,
+      "AdMob": 30
+    },
     "rewardAdmobId": "",
     "admobNativeAds": {
       "config": [
-        { "delayToNextCache": 6, "tryCacheTimes": 3 },
-        { "delayToNextCache": 5, "tryCacheTimes": 3 },
-        { "delayToNextCache": 5, "tryCacheTimes": 2 },
-        { "delayToNextCache": 5, "tryCacheTimes": 1 },
-        { "delayToNextCache": 5, "tryCacheTimes": 1 }
+        { "delayToNextCache": 10, "tryCacheTimes": 2 },
+        { "delayToNextCache": 10, "tryCacheTimes": 1 }
       ],
       "ids": [
-        "ca-app-pub-1865559073577505/2521233705",
-        "ca-app-pub-1865559073577505/7198845314",
-        "ca-app-pub-1865559073577505/5302653172",
-        "ca-app-pub-1865559073577505/7745640224",
-        "ca-app-pub-1865559073577505/8484006821"
+        "ca-app-pub-6879340456864843/7027591941",
+        "ca-app-pub-6879340456864843/4848807704"
       ]
     },
     "facebookNativeAds": {
       "config": [
-        { "delayToNextCache": 6, "tryCacheTimes": 3 },
-        { "delayToNextCache": 5, "tryCacheTimes": 3 },
-        { "delayToNextCache": 5, "tryCacheTimes": 2 },
-        { "delayToNextCache": 5, "tryCacheTimes": 1 },
-        { "delayToNextCache": 5, "tryCacheTimes": 1 }
+        { "delayToNextCache": 10, "tryCacheTimes": 1 }
       ],
       "ids": [
-        "573607959775925_595889694214418",
-        "573607959775925_595889774214410",
-        "573607959775925_595889824214405",
-        "573607959775925_595889907547730",
         "573607959775925_595889967547724"
       ]
     }
@@ -68,20 +58,30 @@
       "Applovin": 20,
       "ChartBoost": 5,
       "SuperSonic": 10,
-      "Vungle": 0
+      "Vungle": 20,
+      "Mintegral": 20,
+      "UnityAds": 5,
+      "BUAd": 20
     },
     "rewardAdsConfig": {
       "SuperSonic": 20,
-      "Applovin": 0,
+      "Applovin": 10,
       "ChartBoost": 0,
       "AdMob": 20,
-      "Vungle": 10
+      "Vungle": 10,
+      "UnityAds": 5,
+      "BUAd": 20
     },
     "bannerAdsConfig": {
       "SuperSonic": 0,
       "Applovin": 20,
       "ChartBoost": 0,
-      "AdMob": 20
+      "AdMob": 20,
+      "BUAd": 20
+    },
+    "nativeAdsConfig": {
+      "Facebook": 50,
+      "AdMob": 50
     },
     "rewardAdmobId": "ca-app-pub-9020176592277390/7556782083",
     "admobConfig": [
@@ -99,6 +99,17 @@
       "ca-app-pub-9020176592277390/8163077316",
       "ca-app-pub-9020176592277390/6989596447",
       "ca-app-pub-9020176592277390/6762188125"
-    ]
+    ],
+    "admobNativeId": "ca-app-pub-9020176592277390/1130176740",
+    "facebookNativeId": "573607959775925_612655122537875"
+  },
+  "glacierIOS": {
+    "admobCacheStrategy": 5,
+    "nativeAdsConfig": {
+      "Facebook": 50,
+      "AdMob": 50
+    },
+    "admobNativeId": "ca-app-pub-6879340456864843/8454241725",
+    "facebookNativeId": "573607959775925_612655122537875"
   }
 }
