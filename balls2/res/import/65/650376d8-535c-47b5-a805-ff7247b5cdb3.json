@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"skip_anim","_duration":2.5166666666666666,"curveData":{"paths":{"btn_skip":{"comps":{},"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2"}},{"frame":2.0166666666666666,"value":{"__type__":"cc.Vec2"}},{"frame":2.5166666666666666,"value":{"__type__":"cc.Vec2","x":1,"y":1}}]}}}}}
