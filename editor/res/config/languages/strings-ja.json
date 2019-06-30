@@ -25,7 +25,7 @@
   "feed_back_content": "私の質問/意見は:", 
   "help_content": "画面をタッチ、ボール発射！\n左右にスライド、ボール反発", 
   "all_completed": "おめでとう！ゲームクリア。新しいステージをお待ちください。", 
-  "purchase_no_ad_tips": "一回購入して、広告を完全に削除する", 
+  "purchase_no_ad_tips": "一度購入すると、すべてのバナー\n広告とインタースティシャル広告\nが永久に削除されます。", 
   "restore_title": "購入復元", 
   "removed_all_ads_tips": "広告が完全に削除されました", 
   "remove_ads_title": "広告を削除する", 
@@ -105,5 +105,9 @@
   "reward_video_get_daily_diamonds": "無料のデイリーダイヤモンド", 
   "spin_again_title": "もう一度スピンする", 
   "collect_title": "獲得する", 
-  "collect_3_star_tips": "広告を観て星を3つ集め、\nさらにダイヤモンドを獲得しよう。"
+  "collect_3_star_tips": "広告を観て星を3つ集め、\nさらにダイヤモンドを獲得しよう。", 
+  "relife_title": "復活", 
+  "card_tips": "カードを2枚開く", 
+  "flip_card_again": "また来て", 
+  "open_title": "フロップ"
 }

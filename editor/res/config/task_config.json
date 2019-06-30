@@ -73,6 +73,24 @@
       "rewardCount": 30
     },
     {
+      "id": 22,
+      "type": 1,
+      "count": 325,
+      "rewardCount": 30
+    },
+    {
+      "id": 23,
+      "type": 1,
+      "count": 350,
+      "rewardCount": 30
+    },
+    {
+      "id": 24,
+      "type": 1,
+      "count": 375,
+      "rewardCount": 30
+    },
+    {
       "id": 5,
       "type": 2,
       "count": 10,

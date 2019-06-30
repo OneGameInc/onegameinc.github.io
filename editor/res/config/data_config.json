@@ -143,6 +143,28 @@
       "image": "icon_diamond.png"
     }
   ],
+  "cards": [
+    {
+      "id": 1,
+      "count": 5,
+      "image": "icon_diamond.png"
+    },
+    {
+      "id": 2,
+      "count": 10,
+      "image": "icon_diamond.png"
+    },
+    {
+      "id": 3,
+      "count": 16,
+      "image": "icon_diamond.png"
+    },
+    {
+      "id": 4,
+      "count": 23,
+      "image": "icon_diamond.png"
+    }
+  ],
   "share": [
     {
       "id": 1,

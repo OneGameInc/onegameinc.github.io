@@ -25,7 +25,7 @@
   "feed_back_content": "我的问题/建议是:\n\n\n",
   "help_content": "点击屏幕来发射小球\n左右滑动木板来反弹小球",
   "all_completed": "棒极了！\n你已经完成了所有关卡\n等着我们的新关卡呦",
-  "purchase_no_ad_tips": "一次购买，终生去广告！",
+  "purchase_no_ad_tips": "一次购买，永久移除\n横幅广告和插屏广告",
   "restore_title": "恢复购买",
   "removed_all_ads_tips": "你已经永久移除了所有广告！",
   "remove_ads_title": "移除广告",
@@ -122,5 +122,9 @@
   "reward_video_get_daily_diamonds": "每日免费钻石",
   "spin_again_title": "再来一次",
   "collect_title": "收集",
-  "collect_3_star_tips": "收集3星来获取更多钻石"
+  "collect_3_star_tips": "收集3星来获取更多钻石",
+  "relife_title": "复活",
+  "card_tips": "翻开两张牌",
+  "flip_card_again": "再来一次",
+  "open_title": "翻牌"
 }

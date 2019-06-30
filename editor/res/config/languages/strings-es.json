@@ -25,7 +25,7 @@
   "feed_back_content": "Mi problema/sugerencia es:\n\n\n", 
   "help_content": "Toca la pantalla para lanzar\nResbalar desde izquierda hasta derecha para rebotar", 
   "all_completed": "Bravo!\nYa ha pasado todas las niveles.\n Por favor, mira hacia delante nuevos desafíos!", 
-  "purchase_no_ad_tips": "Pagar solo una vez y eliminar\n todos los anuncios para siempre!", 
+  "purchase_no_ad_tips": "Pagar solo una vez y eliminar\ntodos banner anucios y intersticiales\nanuncios para siempre!", 
   "restore_title": "Restaurar", 
   "removed_all_ads_tips": "Ha eliminado todos los anuncios\npara siempre", 
   "remove_ads_title": "Eliminar ADS", 
@@ -105,5 +105,9 @@
   "reward_video_get_daily_diamonds": "Gratis Diamantes  Diarios", 
   "spin_again_title": "Girar otra vez", 
   "collect_title": "coleccionar", 
-  "collect_3_star_tips": "Ver ADS a coger 3 estrellas \npara más diamantes"
+  "collect_3_star_tips": "Ver ADS a coger 3 estrellas \npara más diamantes", 
+  "relife_title": "Resurrección", 
+  "card_tips": "Abrir dos cartas", 
+  "flip_card_again": "Ven otra vez", 
+  "open_title": "Flop"
 }

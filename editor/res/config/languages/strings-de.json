@@ -25,7 +25,7 @@
   "feed_back_content": "Mein Problem/Vorschlag:\n", 
   "help_content": "Zum Schießen Bildschirm antippen\nZum Abprallen von links nach rechts wischen", 
   "all_completed": "Bravo!\nDu hast alle Level abgeräumt.\nBleib dran für neue Herausforderungen!", 
-  "purchase_no_ad_tips": "Einmal kaufen und\nfür immer werbefrei!", 
+  "purchase_no_ad_tips": "Einmal kaufen und sämtliche\nBannerwerbung und Werbeeinblendungen\nfür immer loswerden!", 
   "restore_title": "Wiederherstellen", 
   "removed_all_ads_tips": "Du hast die gesamte\nWerbung für immer entfernt!", 
   "remove_ads_title": "Werbung entfernen", 
@@ -105,5 +105,9 @@
   "reward_video_get_daily_diamonds": "Tägliche Gratisdiamanten", 
   "spin_again_title": "Nochmal drehen", 
   "collect_title": "Einsammeln", 
-  "collect_3_star_tips": "Werbung ansehen und 3 Sterne\nfür mehr Diamanten sammeln."
+  "collect_3_star_tips": "Werbung ansehen und 3 Sterne\nfür mehr Diamanten sammeln.", 
+  "relife_title": "Auferstehung", 
+  "card_tips": "Öffne zwei Karten", 
+  "flip_card_again": "Komm nochmal", 
+  "open_title": "Flop"
 }

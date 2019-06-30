@@ -25,7 +25,7 @@
   "feed_back_content": "Il mio problema/suggerimento è:\n\n\n", 
   "help_content": "Tocca lo schermo per sparare\nScorri da sinistra a destra per rimbalzare", 
   "all_completed": "Bravo!\nHai completato tutti i livelli.\n Rimani sintonizzato per nuove sfide!", 
-  "purchase_no_ad_tips": "Acquista una volta e rimuovi\ntutte le pubblicità per sempre!", 
+  "purchase_no_ad_tips": "Acquista una volta e rimuovi\ntutti i banner e i pop-up\npubblicitari per sempre!", 
   "restore_title": "Ripristina", 
   "removed_all_ads_tips": "Hai rimosso\ntutte le pubblicità per sempre!", 
   "remove_ads_title": "Rimuovi la pubblicità", 
@@ -105,5 +105,9 @@
   "reward_video_get_daily_diamonds": "Diamanti gratis ogni giorno", 
   "spin_again_title": "Gira di nuovo", 
   "collect_title": "Raccogli", 
-  "collect_3_star_tips": "Guarda le pubblicità per ottenere 3 stelle\n da spendere per altri diamanti."
+  "collect_3_star_tips": "Guarda le pubblicità per ottenere 3 stelle\n da spendere per altri diamanti.", 
+  "relife_title": "risurrezione", 
+  "card_tips": "Öffne zwei Karten", 
+  "flip_card_again": "Komm nochmal", 
+  "open_title": "Flop"
 }

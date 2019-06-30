@@ -25,7 +25,7 @@
   "feed_back_content": "我的問題/建議是：", 
   "help_content": "按一下螢幕發射小球\n左右滑動反彈小球", 
   "all_completed": "恭喜！您已通關。敬請期待新關卡", 
-  "purchase_no_ad_tips": "1次購買，永久刪掉廣告", 
+  "purchase_no_ad_tips": "一次購買，永久移除\n橫幅廣告和插屏廣告", 
   "restore_title": "恢復購買", 
   "removed_all_ads_tips": "已為您永久刪掉廣告", 
   "remove_ads_title": "刪除廣告", 
@@ -105,5 +105,9 @@
   "reward_video_get_daily_diamonds": "每日免費鑽石", 
   "spin_again_title": "再來一次", 
   "collect_title": "收集", 
-  "collect_3_star_tips": "收集3星來獲取更多鑽石"
+  "collect_3_star_tips": "收集3星來獲取更多鑽石", 
+  "relife_title": "復活", 
+  "card_tips": "翻開兩張牌", 
+  "flip_card_again": "再來一次", 
+  "open_title": "翻牌"
 }
