@@ -11342,7 +11342,7 @@ var EditorHelper = require("../helper/EditorHelper");
 
 var ColorConfigs = [
     cc.color(252, 178, 0),
-    cc.color(81, 229, 12),
+    cc.color(74, 233, 0),
     cc.color(27, 226, 255),
     cc.color(255, 252, 29),
     cc.color(255, 56, 56),
@@ -11353,12 +11353,16 @@ var ColorConfigs = [
 
     cc.color(255, 90, 141),
     cc.color(242, 86, 9),
-    cc.color(66, 46, 176),
-    cc.color(144, 85, 222),
-    cc.color(23, 167, 104),
+    cc.color(89, 59, 255),
+    cc.color(157, 83, 255),
+    cc.color(45, 232, 150),
     cc.color(176, 72, 206),
-    cc.color(147, 192, 26),
-    cc.color(55, 70, 219)
+    cc.color(168, 246, 32),
+    cc.color(46, 76, 255),
+    cc.color(239, 221, 201),
+    cc.color(253, 209, 133),
+    cc.color(249, 74, 155),
+    cc.color(29, 60, 94)
 ];
 
 var GridType = {
