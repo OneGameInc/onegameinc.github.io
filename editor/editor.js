@@ -11368,7 +11368,7 @@ var ColorConfigs = [
     cc.color(255,57,122),
     cc.color(189,4,126),
     cc.color(230,2,67),
-    cc.color(189,4,126),
+    cc.color(169,0,72),
     cc.color(255,255,255),
     cc.color(20,20,20)
 ];
