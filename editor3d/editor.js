@@ -5194,7 +5194,7 @@ var LevelConfigMan = cc.Class.extend({
         this.levelList = [];
         var levelConfigGroup = game.remoteConfig.getRemoteConfig("level_config_group");
         cc.log("remote config level_config_group:" + levelConfigGroup);
-        var defaultConfigName = "res/config/level_configs.json";
+        var defaultConfigName = "res/config/LevelConfigs.json";
         var levelConfigName = defaultConfigName;
         if (levelConfigGroup && levelConfigGroup.length > 0) {
             levelConfigName = "res/config/level_configs-" + levelConfigGroup + ".json";
