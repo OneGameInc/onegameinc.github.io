@@ -1,0 +1,192 @@
+{
+  "stores": [
+    {
+      "id": 0,
+      "type": 10,
+      "key": "Aim Item",
+      "pid": "com.douapp.manybricks.aim_item",
+      "pid_gp": "com.q1.aim_item",
+      "price": "$4.99",
+      "count": 1,
+      "image": "store_aim.png"
+    },
+    {
+      "id": 1,
+      "type": 7,
+      "key": "purchase boosts use diamonds",
+      "pid": "",
+      "price": "$0",
+      "count": 20,
+      "data": {
+        "new_3": 1,
+        "multiple_3": 1
+      }
+    },
+    {
+      "id": 2,
+      "type": 7,
+      "key": "purchase boosts use diamonds",
+      "pid": "",
+      "price": "$0",
+      "count": 100,
+      "data": {
+        "new_3": 5,
+        "multiple_3": 5
+      }
+    },
+    {
+      "id": 15,
+      "type": 7,
+      "key": "purchase boosts use diamonds",
+      "pid": "",
+      "price": "$0",
+      "count": 300,
+      "data": {
+        "new_3": 15,
+        "multiple_3": 15
+      }
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "key": "free_diamonds_title",
+      "pid": "",
+      "price": "$0",
+      "count": 20,
+      "image": "icon_diamond_1.png"
+    },
+    {
+      "id": 4,
+      "type": 4,
+      "key": "Remove Ads",
+      "pid": "com.douapp.manybricks.ads",
+      "pid_gp": "com.q1.brick_removead",
+      "price": "$2.99",
+      "count": 1,
+      "image": "icon_no_ads.png"
+    },
+    {
+      "id": 5,
+      "type": 8,
+      "key": "diamond1",
+      "pid": "com.douapp.manybricks.diamonds1",
+      "pid_gp": "com.bricknew_gp1",
+      "price": "$0.99",
+      "count": 100,
+      "image": "icon_diamond_1.png"
+    },
+    {
+      "id": 6,
+      "type": 8,
+      "key": "diamond2",
+      "pid": "com.douapp.manybricks.diamonds2",
+      "pid_gp": "com.bricknew_gp2",
+      "price": "$1.99",
+      "count": 200,
+      "image": "icon_diamond_2.png"
+    },
+    {
+      "id": 7,
+      "type": 8,
+      "key": "diamond3",
+      "pid": "com.douapp.manybricks.diamonds3",
+      "pid_gp": "com.bricknew_gp3",
+      "price": "$2.99",
+      "count": 300,
+      "image": "icon_diamond_3.png"
+    },
+    {
+      "id": 8,
+      "type": 8,
+      "key": "diamond4",
+      "pid": "com.douapp.manybricks.diamonds4",
+      "pid_gp": "com.bricknew_gp4",
+      "price": "$4.99",
+      "count": 550,
+      "extra": 0.1,
+      "image": "icon_diamond_4.png"
+    },
+    {
+      "id": 9,
+      "type": 8,
+      "key": "diamond5",
+      "pid": "com.douapp.manybricks.diamonds5",
+      "pid_gp": "com.bricknew_gp5",
+      "price": "$9.99",
+      "count": 1150,
+      "extra": 0.15,
+      "image": "icon_diamond_5.png"
+    },
+    {
+      "id": 10,
+      "type": 8,
+      "key": "diamond6",
+      "pid": "com.douapp.manybricks.diamonds6",
+      "pid_gp": "com.bricknew_gp6",
+      "price": "$29.99",
+      "count": 3600,
+      "extra": 0.2,
+      "image": "icon_diamond_6.png"
+    },
+    {
+      "id": 11,
+      "type": 8,
+      "key": "diamond7",
+      "pid": "com.douapp.manybricks.diamonds7",
+      "pid_gp": "com.bricknew_gp7",
+      "price": "$49.99",
+      "count": 6250,
+      "extra": 0.25,
+      "image": "icon_diamond_7.png"
+    },
+    {
+      "id": 12,
+      "type": 8,
+      "key": "diamond8",
+      "pid": "com.douapp.manybricks.diamonds8",
+      "pid_gp": "com.bricknew_gp8",
+      "price": "$99.99",
+      "count": 15000,
+      "extra": 0.5,
+      "image": "icon_diamond_8.png"
+    },
+    {
+      "id": 13,
+      "type": 5,
+      "key": "Restore",
+      "pid": "",
+      "price": "$0",
+      "count": 1,
+      "image": ""
+    },
+    {
+      "id": 14,
+      "type": 6,
+      "key": "Special Offer",
+      "pid": "com.douapp.manybricks.special_offer",
+      "pid_gp": "com.brick_gp0",
+      "price": "$0.99",
+      "original_price": "$3.99",
+      "discount_multi": 3,
+      "data": {
+        "diamonds": 400
+      }
+    }
+  ],
+  "boosts": [
+    {
+      "id": 1,
+      "key": "Split Boost",
+      "diamondCount": 100,
+      "count": 5,
+      "image": "store_3_multiple.png"
+    },
+    {
+      "id": 2,
+      "key": "3 New Boost",
+      "diamondCount": 100,
+      "count": 5,
+      "image": "store_3_new.png"
+    }
+  ]
+}
