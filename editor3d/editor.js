@@ -11774,7 +11774,7 @@ var EditorScene = cc.Scene.extend({
         }
         for (var i = 0; i < this.obstacleRects.length; ++i) {
             var brickRect = this.obstacleRects[i];
-            this.markOccupiedWithRect(brickRect,  cc.color.WHITE);
+            this.markOccupiedWithRect(brickRect,  cc.color(0,0,0));
         }
         this._levelEditBox.setString(config.id);
         this._boostEditBox.setString(config.b);
@@ -12256,7 +12256,7 @@ var EditorScene = cc.Scene.extend({
         if (this._status === "brick") {
             return this.selectColor;
         } else {
-            return cc.color.WHITE;
+            return cc.color(0,0,0);
         }
     }
     //
