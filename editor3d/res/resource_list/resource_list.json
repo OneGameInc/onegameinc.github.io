@@ -31,6 +31,7 @@
     "res/config/languages/strings-en.json", 
     "res/config/languages/strings-it.json", 
     "res/config/level_configs.json", 
+    "res/config/LevelConfigs.json", 
     "res/config/store_config.json", 
     "res/config/task_old_config.json", 
     "res/config/data_config.json", 
