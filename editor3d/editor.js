@@ -5203,7 +5203,7 @@ var LevelConfigMan = cc.Class.extend({
             }
         }
         var jsonObj = game.utils.loadJson(levelConfigName);
-        var levelConfigs = jsonObj["levels"];
+        var levelConfigs = jsonObj;
         this.originalLevelList = levelConfigs;
         for (var i = 0; i < levelConfigs.length; ++i) {
             var levelConfig = new LevelConfig();
