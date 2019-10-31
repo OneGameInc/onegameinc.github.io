@@ -11816,15 +11816,15 @@ var EditorScene = cc.Scene.extend({
 
     onAdd: function () {
         this.resetOldView();
-        this.COL += 4;
-        this.ROW += 4;
+        this.COL += 2;
+        this.ROW += 2;
         this.updateView();
     },
 
     onReduce: function () {
         this.resetOldView();
-        this.COL -= 4;
-        this.ROW -= 4;
+        this.COL -= 2;
+        this.ROW -= 2;
         this.updateView();
     },
 
