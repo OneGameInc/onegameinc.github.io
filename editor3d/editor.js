@@ -11478,11 +11478,11 @@ var EditorScene = cc.Scene.extend({
         var addItem = new cc.MenuItemFont("Add", this.onAdd, this);
         var reduceItem = new cc.MenuItemFont("Reduce", this.onReduce, this);
         var loadItem = new cc.MenuItemFont("Load", this.onLoad, this);
-        var previewItem = new cc.MenuItemFont("Preview", this.onPreview, this);
-        var duplicateItem = new cc.MenuItemFont("Duplicate", this.onDuplicateCheck, this);
-        var reachItem = new cc.MenuItemFont("Reach", this.onReachTest, this);
+        // var previewItem = new cc.MenuItemFont("Preview", this.onPreview, this);
+        // var duplicateItem = new cc.MenuItemFont("Duplicate", this.onDuplicateCheck, this);
+        // var reachItem = new cc.MenuItemFont("Reach", this.onReachTest, this);
         var nextItem = new cc.MenuItemFont("Next", this.onNext, this);
-        var menu = new cc.Menu(brickItem, saveItem, deleteItem, addItem, reduceItem, loadItem, previewItem, duplicateItem, reachItem, nextItem);
+        var menu = new cc.Menu(brickItem, saveItem, deleteItem, addItem, reduceItem, loadItem, nextItem);
 
 
         menu.alignItemsHorizontally();
