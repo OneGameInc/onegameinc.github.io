@@ -14761,7 +14761,7 @@ var EditorHelper = {
             levelConfigs.push(levelCfg);
         }
 
-        var results = '{"levels": [\n';
+        var results = '[\n';
         for (var i = 0; i < levelConfigs.length; ++i) {
             results += JSON.stringify(levelConfigs[i]);
             if (i !== levelConfigs.length - 1) {
@@ -14770,7 +14770,7 @@ var EditorHelper = {
                 results += "\n";
             }
         }
-        results += ']}';
+        results += ']';
 
         this.postData("/save_level_configs", function(xhttp) {
             return function() {
