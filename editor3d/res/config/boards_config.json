@@ -1,0 +1,112 @@
+{
+  "boards": [
+    {
+      "id": 0,
+      "count": 1,
+      "image": "icon_board_0",
+      "type": 1
+    },
+    {
+      "id": 1,
+      "count": 1,
+      "image": "icon_board_1",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "count": 1,
+      "image": "icon_board_2",
+      "type": 1
+    },
+    {
+      "id": 3,
+      "count": 1,
+      "image": "icon_board_3",
+      "type": 1
+    },
+    {
+      "id": 4,
+      "count": 1,
+      "image": "icon_board_4",
+      "type": 1
+    },
+    {
+      "id": 5,
+      "count": 1,
+      "image": "icon_board_5",
+      "type": 1
+    },
+    {
+      "id": 6,
+      "count": 1,
+      "image": "icon_board_6",
+      "type": 1
+    },
+    {
+      "id": 7,
+      "count": 1,
+      "image": "icon_board_7",
+      "type": 1
+    },
+    {
+      "id": 8,
+      "count": 1,
+      "image": "icon_board_8",
+      "type": 1
+    },
+    {
+      "id": 9,
+      "count": 1,
+      "image": "icon_board_9",
+      "type": 1
+    },
+    {
+      "id": 10,
+      "count": 1,
+      "image": "icon_board_10",
+      "type": 1
+    },
+    {
+      "id": 11,
+      "count": 1,
+      "image": "icon_board_11",
+      "type": 1
+    },
+    {
+      "id": 12,
+      "count": 1,
+      "image": "icon_board_12",
+      "type": 4
+    },
+    {
+      "id": 13,
+      "count": 1,
+      "image": "icon_board_13",
+      "type": 4
+    },
+    {
+      "id": 14,
+      "count": 1,
+      "image": "icon_board_14",
+      "type": 4
+    },
+    {
+      "id": 15,
+      "count": 1,
+      "image": "icon_board_15",
+      "type": 4
+    },
+    {
+      "id": 16,
+      "count": 1,
+      "image": "icon_board_16",
+      "type": 4
+    },
+    {
+      "id": 17,
+      "count": 1,
+      "image": "icon_board_17",
+      "type": 3
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "boxReward1": [
+    {
+      "type": 5,
+      "count": 1,
+      "scale": 1.6
+    },
+    {
+      "type": 10,
+      "count": 1
+    }
+  ],
+  "boxReward2": [
+    {
+      "type": 2,
+      "count": 2,
+      "image": "store_3_new.png"
+    },
+    {
+      "type": 3,
+      "count": 2,
+      "image": "store_3_multiple.png"
+    },
+    {
+      "type": 2,
+      "count": 3,
+      "image": "store_3_new.png"
+    },
+    {
+      "type": 3,
+      "count": 3,
+      "image": "store_3_multiple.png"
+    },
+    {
+      "type": 6,
+      "count": 15,
+      "image": "icon_diamond.png"
+    },
+    {
+      "type": 6,
+      "count": 20,
+      "image": "icon_diamond.png"
+    }
+  ],
+  "boxReward3": [
+    {
+      "type": 2,
+      "count": 1,
+      "image": "store_3_new.png"
+    },
+    {
+      "type": 3,
+      "count": 1,
+      "image": "store_3_multiple.png"
+    },
+    {
+      "type": 6,
+      "count": 2,
+      "image": "icon_diamond.png"
+    },
+    {
+      "type": 6,
+      "count": 3,
+      "image": "icon_diamond.png"
+    },
+    {
+      "type": 6,
+      "count": 4,
+      "image": "icon_diamond.png"
+    },
+    {
+      "type": 6,
+      "count": 5,
+      "image": "icon_diamond.png"
+    },
+    {
+      "type": 6,
+      "count": 6,
+      "image": "icon_diamond.png"
+    },
+    {
+      "type": 6,
+      "count": 7,
+      "image": "icon_diamond.png"
+    },
+    {
+      "type": 6,
+      "count": 8,
+      "image": "icon_diamond.png"
+    },
+    {
+      "type": 6,
+      "count": 10,
+      "image": "icon_diamond.png"
+    }
+  ]
+}

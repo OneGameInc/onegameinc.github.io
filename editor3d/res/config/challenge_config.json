@@ -1,0 +1,234 @@
+{
+  "challenges": [
+    {
+      "id": 1,
+      "image": "icon_ball",
+      "grayImage": "icon_ball_gray",
+      "nameKey": "challenge_name_1",
+      "levelLimit": 15
+    },
+    {
+      "id": 2,
+      "image": "icon_bomb_b",
+      "grayImage": "icon_bomb_b_gray",
+      "nameKey": "challenge_name_2",
+      "levelLimit": 20
+    },
+    {
+      "id": 3,
+      "image": "icon_clock",
+      "grayImage": "icon_clock_gray",
+      "nameKey": "challenge_name_3",
+      "levelLimit": 25
+    },
+    {
+      "id": 4,
+      "image": "icon_leisure",
+      "grayImage": "icon_leisure_gray",
+      "nameKey": "challenge_name_4",
+      "levelLimit": 30
+    }
+  ],
+  "challenge1": [
+    {
+      "id": 1,
+      "level": 5,
+      "rewards": [
+        {"type": 5,"param1": 52},
+        {"type": 2,"count": 1},
+        {"type": 3,"count": 1},
+        {"type": 6,"count": 10}
+      ]
+    },
+    {
+      "id": 2,
+      "level": 10,
+      "rewards": [
+        {"type": 5,"param1": 53},
+        {"type": 2,"count": 2},
+        {"type": 3,"count": 2},
+        {"type": 6,"count": 20}
+      ]
+    },
+    {
+      "id": 3,
+      "level": 15,
+      "rewards": [
+        {"type": 5,"param1": 54},
+        {"type": 2,"count": 1},
+        {"type": 3,"count": 1},
+        {"type": 6,"count": 10}
+      ]
+    },
+    {
+      "id": 4,
+      "level": 20,
+      "rewards": [
+        {"type": 5,"param1": 55},
+        {"type": 2,"count": 3},
+        {"type": 3,"count": 3},
+        {"type": 6,"count": 30}
+      ]
+    },
+    {
+      "id": 5,
+      "level": 25,
+      "rewards": [
+        {"type": 5,"param1": 56},
+        {"type": 2,"count": 4},
+        {"type": 3,"count": 4},
+        {"type": 6,"count": 20}
+      ]
+    }
+  ],
+  "challenge2": [
+    {
+      "id": 1,
+      "level": 5,
+      "rewards": [
+        {"type": 5,"param1": 57},
+        {"type": 2,"count": 1},
+        {"type": 3,"count": 1},
+        {"type": 6,"count": 20}
+      ]
+    },
+    {
+      "id": 2,
+      "level": 10,
+      "rewards": [
+        {"type": 2,"count": 2},
+        {"type": 3,"count": 2},
+        {"type": 6,"count": 30}
+      ]
+    },
+    {
+      "id": 3,
+      "level": 15,
+      "rewards": [
+        {"type": 5,"param1": 58},
+        {"type": 2,"count": 2},
+        {"type": 3,"count": 2},
+        {"type": 6,"count": 20}
+      ]
+    },
+    {
+      "id": 4,
+      "level": 20,
+      "rewards": [
+        {"type": 2,"count": 3},
+        {"type": 3,"count": 3},
+        {"type": 6,"count": 40}
+      ]
+    },
+    {
+      "id": 5,
+      "level": 25,
+      "rewards": [
+        {"type": 5,"param1": 59},
+        {"type": 2,"count": 4},
+        {"type": 3,"count": 4},
+        {"type": 6,"count": 30}
+      ]
+    }
+  ],
+  "challenge3": [
+    {
+      "id": 1,
+      "level": 5,
+      "rewards": [
+        {"type": 5,"param1": 60},
+        {"type": 2,"count": 1},
+        {"type": 3,"count": 1},
+        {"type": 6,"count": 20}
+      ]
+    },
+    {
+      "id": 2,
+      "level": 10,
+      "rewards": [
+        {"type": 2,"count": 2},
+        {"type": 3,"count": 2},
+        {"type": 6,"count": 30}
+      ]
+    },
+    {
+      "id": 3,
+      "level": 15,
+      "rewards": [
+        {"type": 5,"param1": 61},
+        {"type": 2,"count": 2},
+        {"type": 3,"count": 2},
+        {"type": 6,"count": 20}
+      ]
+    },
+    {
+      "id": 4,
+      "level": 20,
+      "rewards": [
+        {"type": 2,"count": 3},
+        {"type": 3,"count": 3},
+        {"type": 6,"count": 40}
+      ]
+    },
+    {
+      "id": 5,
+      "level": 25,
+      "rewards": [
+        {"type": 5,"param1": 62},
+        {"type": 2,"count": 4},
+        {"type": 3,"count": 4},
+        {"type": 6,"count": 30}
+      ]
+    }
+  ],
+  "challenge4": [
+    {
+      "id": 1,
+      "level": 5,
+      "rewards": [
+        {"type": 5,"param1": 63},
+        {"type": 2,"count": 1},
+        {"type": 3,"count": 1},
+        {"type": 6,"count": 20}
+      ]
+    },
+    {
+      "id": 2,
+      "level": 10,
+      "rewards": [
+        {"type": 2,"count": 2},
+        {"type": 3,"count": 2},
+        {"type": 6,"count": 30}
+      ]
+    },
+    {
+      "id": 3,
+      "level": 15,
+      "rewards": [
+        {"type": 5,"param1": 64},
+        {"type": 2,"count": 2},
+        {"type": 3,"count": 2},
+        {"type": 6,"count": 20}
+      ]
+    },
+    {
+      "id": 4,
+      "level": 20,
+      "rewards": [
+        {"type": 2,"count": 3},
+        {"type": 3,"count": 3},
+        {"type": 6,"count": 40}
+      ]
+    },
+    {
+      "id": 5,
+      "level": 25,
+      "rewards": [
+        {"type": 10,"param1": 17},
+        {"type": 2,"count": 4},
+        {"type": 3,"count": 4},
+        {"type": 6,"count": 30}
+      ]
+    }
+  ]
+}

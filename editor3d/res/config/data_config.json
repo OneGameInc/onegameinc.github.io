@@ -2,23 +2,24 @@
   "wheel": [
     {
       "id": 1,
-      "type": 2,
-      "count": 2,
+      "type": 6,
+      "count": 20,
       "probability": 30,
-      "image": "store_3_new.png"
+      "image": "icon_diamond_1.png",
+      "scale": 1.2
     },
     {
       "id": 2,
       "type": 3,
-      "count": 2,
-      "probability": 30,
+      "count": 3,
+      "probability": 15,
       "image": "store_3_multiple.png"
     },
     {
       "id": 3,
       "type": 6,
-      "count": 15,
-      "probability": 30,
+      "count": 30,
+      "probability": 20,
       "image": "icon_diamond_1.png",
       "scale": 1.2
     },
@@ -31,18 +32,18 @@
     },
     {
       "id": 5,
-      "type": 3,
-      "count": 3,
-      "probability": 15,
-      "image": "store_3_multiple.png"
-    },
-    {
-      "id": 6,
       "type": 6,
-      "count": 60,
+      "count": 100,
       "probability": 5,
       "image": "icon_diamond_1.png",
       "scale": 1.2
+    },
+    {
+      "id": 6,
+      "type": 5,
+      "count": 1,
+      "probability": 15,
+      "scale": 1.1
     }
   ],
   "box": [
