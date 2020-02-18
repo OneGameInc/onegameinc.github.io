@@ -1,8 +1,11 @@
 # AdMob
 google.com, pub-8149784555564998, DIRECT, f08c47fec0942fa0
+google.com, pub-6203173168125451, DIRECT, f08c47fec0942fa0
+google.com, pub-9020176592277390, DIRECT, f08c47fec0942fa0
 
 # Vungle
 vungle.com, 5af13f92e549c70aba89afbe, DIRECT, c107d686becd2d77
+vungle.com, 584b6437907237e70e00013b, DIRECT, c107d686becd2d77
 openx.com, 540280728, RESELLER, 6a698e2ec38604c6
 appnexus.com, 10128, RESELLER, f5ab79cb980f11d1
 indexexchange.com, 185774, RESELLER, 50b1c356f2c5c8fc
@@ -27,10 +30,32 @@ bidmachine.io, 55, RESELLER
 bidmachine.io, 59, RESELLER
 
 # Unity
+unity3d.com, 2069853, DIRECT, 96cabb5fbdde37a7
+telaria.com, rwd19-2069853, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-2069853, RESELLER, 1a4e959a1b50034a
+
 unity3d.com, 1859002, DIRECT, 96cabb5fbdde37a7
 telaria.com, rwd19-1859002, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1859002, RESELLER, 1a4e959a1b50034a
+
+unity.com, 2084376, DIRECT, 96cabb5fbdde37a7
+telaria.com, rwd19-2084376, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-2084376, RESELLER, 1a4e959a1b50034a
+
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
+pokkt.com, 6246, RESELLER, c45702d9311e25fd
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157384, RESELLER, 5d62403b186f2ace
+spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
+spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
+openx.com, 540871654, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+reforge.in, 107, RESELLER
+velismedia.com, 725, RESELLER
+appnexus.com, 7353, RESELLER
+xandr.com, 7353, RESELLER
 
 # ADT
 adtiming.com, 932, DIRECT, bf66753b8f380142
