@@ -38,9 +38,9 @@ unity3d.com, 1859002, DIRECT, 96cabb5fbdde37a7
 telaria.com, rwd19-1859002, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1859002, RESELLER, 1a4e959a1b50034a
 
-unity.com, 2084376, DIRECT, 96cabb5fbdde37a7
-telaria.com, rwd19-2084376, RESELLER, 1a4e959a1b50034a
-tremorhub.com, rwd19-2084376, RESELLER, 1a4e959a1b50034a
+unity.com, 1008557, DIRECT, 96cabb5fbdde37a7
+telaria.com, rwd19-1008557, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-1008557, RESELLER, 1a4e959a1b50034a
 
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
