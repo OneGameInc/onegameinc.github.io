@@ -11371,8 +11371,8 @@ var GridType = {
     Wall: 2
 }
 
-var GrayColor = cc.color.GRAY;
-var LightGrayColor = cc.color(130, 130, 130);
+var GrayColor = cc.color(166, 166, 166, 170);
+var LightGrayColor = cc.color(130, 130, 130, 170);
 var StatusList = ["brick", "obstacle", "delete"];
 
 var EditorScene = cc.Scene.extend({
@@ -11429,6 +11429,11 @@ var EditorScene = cc.Scene.extend({
         this.gridNode.x = this.xOffset;
         this.gridNode.y = this.yOffset;
         this.gridNode.scale = scale;
+
+        this.bg = new cc.Sprite("res/game/bg.png");
+        this.addChild(this.bg, -1);
+        this.bg.x = cc.winSize.width * 0.5;
+        this.bg.y = cc.winSize.height * 0.5;
 
         this.initGrids();
         this.initButtons();
