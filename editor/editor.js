@@ -11479,7 +11479,8 @@ var EditorScene = cc.Scene.extend({
         var duplicateItem = new cc.MenuItemFont("Duplicate", this.onDuplicateCheck, this);
         var reachItem = new cc.MenuItemFont("Reach", this.onReachTest, this);
         var nextItem = new cc.MenuItemFont("Next", this.onNext, this);
-        var menu = new cc.Menu(brickItem, saveItem, deleteItem, addItem, reduceItem, loadItem, previewItem, duplicateItem, reachItem, nextItem);
+        var newSaveItem = new cc.MenuItemFont("BCSave", this.onBCSave, this);
+        var menu = new cc.Menu(brickItem, saveItem, deleteItem, addItem, reduceItem, loadItem, previewItem, /*duplicateItem, reachItem,*/ nextItem, newSaveItem);
 
 
         menu.alignItemsHorizontally();
@@ -11832,6 +11833,17 @@ var EditorScene = cc.Scene.extend({
         cc.log("results:" + JSON.stringify(obj));
 
         EditorHelper.saveLevelConfig(obj);
+    },
+
+    onBCSave: function () {
+        var obj = this.generateLevelObj();
+        cc.log("results:" + JSON.stringify(obj));
+        var blob = new Blob([JSON.stringify(obj)]);
+        var tag = document.createElement("a");
+        tag.download = "level.json";
+        tag.href = URL.createObjectURL(blob);
+        tag.click();
+        URL.revokeObjectURL(blob);
     },
 
     onDelete: function () {
