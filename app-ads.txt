@@ -2,10 +2,14 @@
 google.com, pub-8149784555564998, DIRECT, f08c47fec0942fa0
 google.com, pub-6203173168125451, DIRECT, f08c47fec0942fa0
 google.com, pub-9020176592277390, DIRECT, f08c47fec0942fa0
+google.com, pub-6879340456864843, DIRECT, f08c47fec0942fa0
+
 
 # Vungle
 vungle.com, 5af13f92e549c70aba89afbe, DIRECT, c107d686becd2d77
 vungle.com, 584b6437907237e70e00013b, DIRECT, c107d686becd2d77
+vungle.com, 5c49747b3633b874d47e7e0b, DIRECT, c107d686becd2d77
+
 openx.com, 540280728, RESELLER, 6a698e2ec38604c6
 appnexus.com, 10128, RESELLER, f5ab79cb980f11d1
 indexexchange.com, 185774, RESELLER, 50b1c356f2c5c8fc
@@ -41,6 +45,10 @@ tremorhub.com, rwd19-1859002, RESELLER, 1a4e959a1b50034a
 unity.com, 1008557, DIRECT, 96cabb5fbdde37a7
 telaria.com, rwd19-1008557, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1008557, RESELLER, 1a4e959a1b50034a
+
+unity.com, 1557331, DIRECT, 96cabb5fbdde37a7
+telaria.com, rwd19-1557331, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-1557331, RESELLER, 1a4e959a1b50034a
 
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
