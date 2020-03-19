@@ -11362,7 +11362,9 @@ var ColorConfigs = [
     cc.color(239, 221, 201),
     cc.color(253, 209, 133),
     cc.color(249, 74, 155),
-    cc.color(29, 60, 94)
+    cc.color(29, 60, 94),
+    cc.color(255, 255, 255),
+    cc.color(0, 0, 0)
 ];
 
 var GridType = {
