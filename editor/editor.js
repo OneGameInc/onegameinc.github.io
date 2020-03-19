@@ -11382,8 +11382,8 @@ var EditorScene = cc.Scene.extend({
     CONTENT_WIDTH: 600,
     CONTENT_HEIGHT: 600,
 
-    COL: 50,
-    ROW: 50,
+    COL: 15,
+    ROW: 15,
 
     GRID_WIDTH: 9,
     GRID_HEIGHT: 9,
@@ -11818,15 +11818,15 @@ var EditorScene = cc.Scene.extend({
 
     onAdd: function () {
         this.resetOldView();
-        this.COL += 4;
-        this.ROW += 4;
+        this.COL += 1;
+        this.ROW += 1;
         this.updateView();
     },
 
     onReduce: function () {
         this.resetOldView();
-        this.COL -= 4;
-        this.ROW -= 4;
+        this.COL -= 1;
+        this.ROW -= 1;
         this.updateView();
     },
 
