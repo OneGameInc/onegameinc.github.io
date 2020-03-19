@@ -11434,6 +11434,8 @@ var EditorScene = cc.Scene.extend({
         this.addChild(this.bg, -1);
         this.bg.x = cc.winSize.width * 0.5;
         this.bg.y = cc.winSize.height * 0.5;
+        this.bg.scaleX = this.CONTENT_WIDTH / this.bg.width * scale;
+        this.bg.scaleY = this.CONTENT_HEIGHT / this.bg.height * scale;
 
         this.initGrids();
         this.initButtons();
