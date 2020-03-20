@@ -11751,8 +11751,8 @@ var EditorScene = cc.Scene.extend({
         //this.updateView();
         var width = this.CONTENT_WIDTH / this.COL;
         var height = this.CONTENT_HEIGHT / this.ROW;
-        this.GRID_WIDTH = width * 0.75;
-        this.GRID_HEIGHT = height * 0.75;
+        this.GRID_WIDTH = width * 0.95;
+        this.GRID_HEIGHT = height * 0.95;
         this.GAP_WIDTH = width - this.GRID_WIDTH;
         this.GAP_HEIGHT = height - this.GRID_HEIGHT;
 
