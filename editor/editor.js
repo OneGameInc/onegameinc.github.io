@@ -11362,9 +11362,7 @@ var ColorConfigs = [
     cc.color(239, 221, 201),
     cc.color(253, 209, 133),
     cc.color(249, 74, 155),
-    cc.color(29, 60, 94),
-    cc.color(255, 255, 255),
-    cc.color(0, 0, 0)
+    cc.color(29, 60, 94)
 ];
 
 var GridType = {
@@ -11382,8 +11380,8 @@ var EditorScene = cc.Scene.extend({
     CONTENT_WIDTH: 600,
     CONTENT_HEIGHT: 600,
 
-    COL: 15,
-    ROW: 15,
+    COL: 50,
+    ROW: 50,
 
     GRID_WIDTH: 9,
     GRID_HEIGHT: 9,
@@ -11751,8 +11749,8 @@ var EditorScene = cc.Scene.extend({
         //this.updateView();
         var width = this.CONTENT_WIDTH / this.COL;
         var height = this.CONTENT_HEIGHT / this.ROW;
-        this.GRID_WIDTH = width * 0.95;
-        this.GRID_HEIGHT = height * 0.95;
+        this.GRID_WIDTH = width * 0.75;
+        this.GRID_HEIGHT = height * 0.75;
         this.GAP_WIDTH = width - this.GRID_WIDTH;
         this.GAP_HEIGHT = height - this.GRID_HEIGHT;
 
@@ -11818,15 +11816,15 @@ var EditorScene = cc.Scene.extend({
 
     onAdd: function () {
         this.resetOldView();
-        this.COL += 1;
-        this.ROW += 1;
+        this.COL += 4;
+        this.ROW += 4;
         this.updateView();
     },
 
     onReduce: function () {
         this.resetOldView();
-        this.COL -= 1;
-        this.ROW -= 1;
+        this.COL -= 4;
+        this.ROW -= 4;
         this.updateView();
     },
 
