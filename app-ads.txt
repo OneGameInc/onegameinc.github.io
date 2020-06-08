@@ -70,3 +70,7 @@ adtiming.com, 932, DIRECT, bf66753b8f380142
 
 tapjoy.com, 7ea401acc5424e31b08766c775ad6208, DIRECT, 29e595b1aeb5904d
 rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
+
+#AdTiming
+adtiming.com, 1100, DIRECT, bf66753b8f380142
+pubmatic.com, 25463, RESELLER, 5d62403b186f2ace
